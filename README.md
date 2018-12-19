@@ -29,7 +29,7 @@ namespace ConsoleApp1
                 From = "test@gmail.com",
                 Subject = "subject",
                 Body = "This is a test body",
-                GoogleUserName = "test123",
+                GoogleUserName = "test@gmail.com",
                 GooglePassword = "test123"
             });
 
