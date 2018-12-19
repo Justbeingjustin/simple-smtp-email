@@ -15,7 +15,7 @@
 
 ## Useage
 
-You can simply create an email object with email details. Finally, you can send an email. 
+You can simply create an email object with email details and send an email. 
 
 ```csharp
 using SimpleEmail;
