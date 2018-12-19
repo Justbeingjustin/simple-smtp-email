@@ -1,12 +1,16 @@
 # simple-smtp-email
 
 ### Table of Contents
+**[Nuget](#nuget)**<br>
 **[Useage](#useage)**<br>
 **[Contributing](#contributing)**<br>
 
 
+## Nuget
 
-
+ ```
+    PM> Install-Package simple-smtp-email
+```
 
 
 ## Useage
