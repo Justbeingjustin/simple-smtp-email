@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEmail", "SimpleEmail\SimpleEmail.csproj", "{188B2CF9-F1CB-4588-A62B-6E617329AF59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEmail", "SimpleEmail\SimpleEmail.csproj", "{E7CC5292-591B-4D6E-BED9-55E55EDF864B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{188B2CF9-F1CB-4588-A62B-6E617329AF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{188B2CF9-F1CB-4588-A62B-6E617329AF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{188B2CF9-F1CB-4588-A62B-6E617329AF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{188B2CF9-F1CB-4588-A62B-6E617329AF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CC5292-591B-4D6E-BED9-55E55EDF864B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CC5292-591B-4D6E-BED9-55E55EDF864B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CC5292-591B-4D6E-BED9-55E55EDF864B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CC5292-591B-4D6E-BED9-55E55EDF864B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7DCB1FDC-6C8A-482F-872B-F197C799FF60}
+		SolutionGuid = {BBBFA93E-9D5B-4570-ADE3-E3D77604629C}
 	EndGlobalSection
 EndGlobal
