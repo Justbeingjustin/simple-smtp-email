@@ -1,5 +1,14 @@
 # simple-smtp-email
 
+### Table of Contents
+**[Useage](#useage)**<br>
+**[Contributing](#contributing)**<br>
+
+
+
+
+
+
 ## Useage
 
 You can simply create an email object with email details. Finally, you can send an email. 
