@@ -1,9 +1,9 @@
-﻿using JSG.Email.Models;
+﻿using SimpleEmail.Models;
 using System.Net;
 using System.Net.Mail;
 using System.Text;
 
-namespace JSG.Email
+namespace SimpleEmail
 {
     public class Email
     {

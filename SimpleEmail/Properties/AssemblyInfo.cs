@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JSG.Email")]
+[assembly: AssemblyTitle("SimpleEmail")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("JSG.Email")]
+[assembly: AssemblyProduct("SimpleEmail")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("138e03be-fa7f-42fa-96c2-d7fba2ca272f")]
+[assembly: Guid("188b2cf9-f1cb-4588-a62b-6e617329af59")]
 
 // Version information for an assembly consists of the following four values:
 //
