@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFrameworks>netstandard2.0;net461;net45</TargetFrameworks>
     <PackageId>simple-smtp-email</PackageId>
     <Authors>Justin Gerber</Authors>
     <Company />
@@ -11,10 +11,10 @@
     <PackageProjectUrl>https://github.com/Justbeingjustin/simple-smtp-email</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Justbeingjustin/simple-smtp-email</RepositoryUrl>
     <PackageReleaseNotes></PackageReleaseNotes>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Properties\" />
   </ItemGroup>
-
 </Project>

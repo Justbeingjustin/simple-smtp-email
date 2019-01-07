@@ -31,5 +31,10 @@
         /// The body of the email
         /// </summary>
         public string Body { get; set; }
+
+        /// <summary>
+        /// allow the body of the message to be html
+        /// </summary>
+        public bool IsBodyHtml { get; set; }
     }
 }

@@ -30,6 +30,7 @@ namespace SimpleEmail
             client.Credentials = new NetworkCredential(_googleEmailDetails.GoogleUserName, _googleEmailDetails.GooglePassword);
             MailMessage mm = new MailMessage(_googleEmailDetails.From, _googleEmailDetails.To, _googleEmailDetails.Subject, _googleEmailDetails.Body);
             mm.BodyEncoding = Encoding.UTF8;
+            mm.IsBodyHtml = _googleEmailDetails.IsBodyHtml;
             mm.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure;
             client.Send(mm);
         }
