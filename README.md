@@ -3,7 +3,7 @@
 ### Table of Contents
 **[Available For](#available-for)**<br>
 **[Nuget](#nuget)**<br>
-**[Useage](#useage)**<br>
+**[Usage](#usage)**<br>
 **[Contributing](#contributing)**<br>
 
 ## Available For
@@ -18,7 +18,7 @@
 ```
 
 
-## Useage
+## Usage
 
 You can simply create an email object with email details and send an email. 
 
