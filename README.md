@@ -39,7 +39,8 @@ namespace ConsoleApp1
                 Subject = "subject",
                 Body = "This is a test body",
                 GoogleUserName = "test@gmail.com",
-                GooglePassword = "test123"
+                GooglePassword = "test123",
+                IsBodyHtml = false
             });
 
             email.SendMail();
